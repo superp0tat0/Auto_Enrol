@@ -1,5 +1,4 @@
-COPYRIGHT RESERVED
-Any for profit use will not be allowed.
+This is a stupid tool for University of Toronto Studetns(me) who need to enrol course in Acorn
 
 
 Dependency:
@@ -17,4 +16,5 @@ password
 course1h3
 course2h3
 ...
+Hint:please set your enrol time before you run.
 3:run
