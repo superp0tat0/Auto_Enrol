@@ -1,5 +1,5 @@
 This is a tool for University of Toronto Studetns(me) who need to enrol course in Acorn<br/>
-
+However, this should not be used as it is unfair to other students and it violates the university policy. Also, I should rewrite it in Airflow to manage the opereations better.<br/>
 
 Dependency:<br/>
 selenium<br/>
